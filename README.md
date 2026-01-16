@@ -78,7 +78,7 @@
 
 ###
 
-<h2 align="left">🛠 Técnologias</h2>
+<h2 align="left">Conecte-se comigo</h2>
 
 ###
 
