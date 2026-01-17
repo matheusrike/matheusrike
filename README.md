@@ -11,36 +11,31 @@
   align="center"
   style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px"
 >
-  <a href="https://github.com/matheusrike">
+  <a href="https://github.com/matheusrike" target="_blank">
     <img
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
-
-  <a href="https://www.linkedin.com/in/matheusrike/">
+  <a href="https://www.linkedin.com/in/matheusrike/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://www.instagram.com/matheusrike_/">
+  <a href="https://www.instagram.com/matheusrike_/" target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     />
   </a>
-
-  <a href="mailto:matheusrike.alves@gmail.com">
+  <a href="mailto:matheusrike.alves@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
     />
   </a>
 </div>
-
----
 
 <h2 align="left">🛠 Stack Tecnológica</h2>
 
@@ -75,34 +70,26 @@
 <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
----
-
 <h2 align="left">🎯 Principais Projetos</h2>
 
-<div align="left" style="max-width: 420px; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px">
+<div align="left">
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 14px; box-shadow: 0px 0px 2px rgb(230 77 19);">
 <h3>Twent</h3>
 <p>Sistema completo de gestão para lojas de relógios de luxo, cobrindo operações administrativas, controle de estoque, PDV, gestão de filiais e vendas.</p>
-<a href="https://github.com/matheusrike/twent">
+<a href="https://github.com/matheusrike/twent" target="_blank">
 <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</div>
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 14px; max-width: 420px; box-shadow: 0px 0px 2px rgb(230 77 19);">
 <h3>Studdy API</h3>
 <p>Backend da plataforma Studdy para gerenciamento de simulados educacionais com múltiplos perfis de acesso.</p>
-<a href="https://github.com/matheusrike/studdy-api">
+<a href="https://github.com/matheusrike/studdy-api" target="_blank">
 <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</div>
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 14px; max-width: 420px; box-shadow: 0px 0px 2px rgb(230 77 19);">
 <h3>Dolt</h3>
 <p>Aplicação simples de gerenciamento de tarefas com persistência em arquivos locais.</p>
-<a href="https://github.com/matheusrike/dolt">
+<a href="https://github.com/matheusrike/dolt" target="_blank">
 <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</div>
 
 </div>
