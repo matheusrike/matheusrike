@@ -88,7 +88,7 @@
 
 <h3>Dolt</h3>
 <p>Aplicação simples de gerenciamento de tarefas com persistência em arquivos locais.</p>
-<a href="https://github.com/matheusrike/dolt" target="_blank">
+<a href="https://github.com/matheusrike/dolt/releases/tag/v1.0.0" target="_blank">
 <img src="https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
