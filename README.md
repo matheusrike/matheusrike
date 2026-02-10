@@ -5,7 +5,7 @@
 ###
 
 <h2 align="left">ℹ Sobre Mim</h2>
-<p align="left">Olá, sou o Matheus, um desenvolvedor fullstack com foco em aplicações web. Aqui você encontrará alguns dos projetos nos quais contribuo e as tecnologias com as quais possuo familiaridade. Sou apaixonado por resolver problemas e estou sempre buscando aprender e aplicar boas práticas de desenvolvimento para entregar soluções resilientes, escaláveis e bem estruturadas.</p>
+<p align="left">Olá, sou o Matheus, um desenvolvedor backend com foco em aplicações web. Aqui você encontrará alguns dos projetos nos quais contribuo e as tecnologias com as quais possuo familiaridade. Sou apaixonado por resolver problemas e estou sempre buscando aprender e aplicar boas práticas de desenvolvimento para entregar soluções de qualidade.</p>
 
 <div
   align="center"
